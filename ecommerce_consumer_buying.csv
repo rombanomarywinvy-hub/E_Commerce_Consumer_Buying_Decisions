@@ -1,0 +1,51 @@
+"Respondent_ID","Age","Gender","Occupation","Preferred_Platform","Shopping_Frequency","Average_Orders_Per_Month","Average_Spending_PHP","Preferred_Product_Category","Payment_Method","Purchase_Decision_Factor","Buying_Satisfaction_Score"
+1,32,"Female","Employed","TikTok Shop","Rarely",9,2173,"Electronics","Bank Transfer","Reviews",2
+2,36,"Female","Student","TikTok Shop","Weekly",7,638,"Electronics","Cash on Delivery","Reviews",5
+3,31,"Male","Self-Employed","TikTok Shop","Monthly",7,1055,"Beauty","E-Wallet","Reviews",1
+4,20,"Female","Self-Employed","Shopee","Rarely",10,3724,"Clothing","Bank Transfer","Price",4
+5,27,"Male","Unemployed","TikTok Shop","Rarely",13,3561,"Beauty","Bank Transfer","Discounts",4
+6,35,"Male","Unemployed","TikTok Shop","Rarely",12,3107,"Home Essentials","E-Wallet","Product Quality",1
+7,39,"Female","Employed","Lazada","Monthly",10,1544,"Home Essentials","Bank Transfer","Discounts",3
+8,28,"Female","Unemployed","Lazada","Daily",8,2310,"Food","E-Wallet","Discounts",4
+9,22,"Male","Self-Employed","Lazada","Rarely",15,2385,"Home Essentials","Bank Transfer","Discounts",4
+10,37,"Male","Student","TikTok Shop","Rarely",6,2725,"Home Essentials","Cash on Delivery","Product Quality",1
+11,31,"Female","Employed","Other","Rarely",7,2477,"Food","Cash on Delivery","Product Quality",5
+12,39,"Male","Employed","TikTok Shop","Weekly",10,4312,"Clothing","Bank Transfer","Discounts",3
+13,42,"Male","Unemployed","TikTok Shop","Daily",11,4843,"Food","Credit/Debit Card","Product Quality",4
+14,43,"Male","Self-Employed","Lazada","Weekly",1,1178,"Beauty","Credit/Debit Card","Reviews",2
+15,44,"Male","Employed","Shopee","Monthly",9,1340,"Electronics","E-Wallet","Discounts",3
+16,22,"Female","Student","Lazada","Rarely",13,2704,"Home Essentials","Cash on Delivery","Product Quality",2
+17,36,"Male","Unemployed","Other","Monthly",13,1805,"Clothing","Bank Transfer","Reviews",3
+18,44,"Male","Self-Employed","Other","Daily",3,972,"Beauty","Bank Transfer","Price",3
+19,42,"Male","Self-Employed","Other","Monthly",10,856,"Food","Cash on Delivery","Discounts",1
+20,45,"Male","Self-Employed","Shopee","Rarely",5,1087,"Clothing","Credit/Debit Card","Product Quality",5
+21,42,"Female","Employed","TikTok Shop","Weekly",6,2594,"Electronics","Credit/Debit Card","Price",4
+22,26,"Female","Employed","TikTok Shop","Daily",13,2968,"Food","Credit/Debit Card","Price",4
+23,20,"Male","Self-Employed","Other","Daily",11,2978,"Food","Credit/Debit Card","Product Quality",5
+24,25,"Female","Student","Other","Weekly",11,4906,"Clothing","Cash on Delivery","Product Quality",3
+25,43,"Female","Student","Lazada","Monthly",9,1333,"Electronics","E-Wallet","Delivery",2
+26,24,"Female","Unemployed","Other","Daily",4,4544,"Clothing","Bank Transfer","Price",4
+27,27,"Female","Self-Employed","Shopee","Weekly",10,1524,"Electronics","E-Wallet","Product Quality",5
+28,26,"Male","Employed","TikTok Shop","Weekly",7,3908,"Electronics","Bank Transfer","Delivery",2
+29,36,"Female","Employed","Shopee","Daily",9,2324,"Electronics","Credit/Debit Card","Discounts",3
+30,21,"Female","Employed","TikTok Shop","Rarely",7,4581,"Home Essentials","Bank Transfer","Reviews",3
+31,31,"Female","Unemployed","Lazada","Rarely",10,1264,"Beauty","Bank Transfer","Delivery",1
+32,34,"Male","Employed","Lazada","Rarely",4,2171,"Beauty","Bank Transfer","Product Quality",3
+33,28,"Male","Employed","Shopee","Weekly",13,3170,"Home Essentials","E-Wallet","Product Quality",2
+34,24,"Female","Employed","TikTok Shop","Rarely",8,2312,"Beauty","Cash on Delivery","Price",3
+35,38,"Male","Self-Employed","Lazada","Daily",9,1711,"Clothing","Cash on Delivery","Discounts",3
+36,29,"Female","Unemployed","Other","Daily",9,3952,"Electronics","Bank Transfer","Discounts",1
+37,32,"Female","Unemployed","Shopee","Weekly",9,809,"Clothing","Bank Transfer","Discounts",2
+38,27,"Male","Employed","TikTok Shop","Daily",5,1357,"Electronics","Credit/Debit Card","Delivery",2
+39,30,"Female","Student","Other","Rarely",7,2569,"Food","Cash on Delivery","Reviews",2
+40,24,"Female","Employed","Other","Monthly",14,2655,"Electronics","E-Wallet","Delivery",4
+41,26,"Male","Employed","TikTok Shop","Daily",14,4051,"Food","Bank Transfer","Reviews",1
+42,26,"Male","Employed","TikTok Shop","Daily",6,2211,"Clothing","Credit/Debit Card","Price",5
+43,27,"Female","Self-Employed","Other","Rarely",11,3134,"Beauty","E-Wallet","Product Quality",5
+44,40,"Male","Unemployed","Shopee","Rarely",1,2438,"Electronics","E-Wallet","Reviews",3
+45,44,"Male","Employed","Other","Weekly",10,1446,"Food","Credit/Debit Card","Reviews",3
+46,45,"Male","Self-Employed","Lazada","Daily",10,890,"Home Essentials","Bank Transfer","Discounts",5
+47,38,"Female","Employed","Lazada","Rarely",1,2086,"Home Essentials","Bank Transfer","Delivery",1
+48,24,"Female","Self-Employed","Other","Weekly",10,1440,"Food","Cash on Delivery","Price",4
+49,38,"Male","Unemployed","Shopee","Daily",1,3756,"Electronics","E-Wallet","Discounts",2
+50,44,"Female","Student","Other","Daily",13,4487,"Home Essentials","E-Wallet","Discounts",5
